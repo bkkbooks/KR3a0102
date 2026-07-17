@@ -20,8 +20,8 @@ assets:
   - {seq: 0, filename: KR3a0102_000-WYG.yaml, hash: 'sha256:be61c7397f8c4ae6a7fd266df86b369207ed7c86af5b1c1b2bac1fc45cecc666'}
   - {seq: 1, filename: KR3a0102_001-WYG.yaml, hash: 'sha256:1e021afb8c5a32b55d0c45c7d9d4de740203d7fc6c44f57e08a6e9a155910b68'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3a0102_000-WYG.markers.yaml, hash: 'sha256:8f0e0b9d42b937de457e74d6f60498458c5a8045b823578ca1a37769d6b3208b'}
-  - {seq: 1, role: markers, filename: assets/KR3a0102_001-WYG.markers.yaml, hash: 'sha256:33fd24d0b2f2384def264ff74bcca749778ec50a39099238853081ada3236368'}
+  - {seq: 0, role: markers, filename: assets/KR3a0102_000-WYG.markers.yaml, hash: 'sha256:8d82efc73788b5d8294869b5f460df91a340cc70a3ec9fa9a9e9317d1a8fc953'}
+  - {seq: 1, role: markers, filename: assets/KR3a0102_001-WYG.markers.yaml, hash: 'sha256:a50aa3c57780dc4a6a27186e6914a17162c7c009017f4590badc7677264c3bc6'}
 table_of_contents:
 - ref:
     seq: 0
@@ -53,4 +53,4 @@ table_of_contents:
   label: 聖諭廣訓
   type: section
   level: 1
-hash: sha256:954df6997e20d9f32a4f9c7d84c4f561d40e91351ffa7b3823af74361f306a2d
+hash: sha256:b6928b9a17dcaafb7adf1a4584e86a6f851ddbec52801352479a35cf7147a30a
