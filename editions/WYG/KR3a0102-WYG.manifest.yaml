@@ -18,10 +18,10 @@ entity_encoding:
 assets:
   parts:
   - {seq: 0, filename: KR3a0102_000-WYG.yaml, hash: 'sha256:be61c7397f8c4ae6a7fd266df86b369207ed7c86af5b1c1b2bac1fc45cecc666'}
-  - {seq: 1, filename: KR3a0102_001-WYG.yaml, hash: 'sha256:1e021afb8c5a32b55d0c45c7d9d4de740203d7fc6c44f57e08a6e9a155910b68'}
+  - {seq: 1, filename: KR3a0102_001-WYG.yaml, hash: 'sha256:4ffa5cc2430b275a47c9b3b62dcaa48a4e7c95990e38e0a88f25a97d24093d72'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR3a0102_000-WYG.markers.yaml, hash: 'sha256:8d82efc73788b5d8294869b5f460df91a340cc70a3ec9fa9a9e9317d1a8fc953'}
-  - {seq: 1, role: markers, filename: assets/KR3a0102_001-WYG.markers.yaml, hash: 'sha256:a50aa3c57780dc4a6a27186e6914a17162c7c009017f4590badc7677264c3bc6'}
+  - {seq: 1, role: markers, filename: assets/KR3a0102_001-WYG.markers.yaml, hash: 'sha256:1200c5a5f854caffba18991a4c039240970c68e3cdc5a6a9874cdaae9ac9ca7b'}
 table_of_contents:
 - ref:
     seq: 0
@@ -48,9 +48,9 @@ table_of_contents:
     marker_id: KR3a0102_WYG_001-1a
     span:
     - body
-    - 0
-    - 29
+    - 10176
+    - 10205
   label: 聖諭廣訓
   type: section
   level: 1
-hash: sha256:b6928b9a17dcaafb7adf1a4584e86a6f851ddbec52801352479a35cf7147a30a
+hash: sha256:6b59ac6343f5e4a7a185c8ab6fe294da04ef4cc5a46bc44777166ad36f818497
